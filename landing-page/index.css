@@ -1,0 +1,2862 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+
+.clock-icon {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.hour-service {
+  height: 27px;
+  position: relative;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor {
+  width: 228px;
+  position: relative;
+  font-size: 12px;
+  line-height: 140%;
+  font-family: Sora;
+  text-align: left;
+  display: inline-block;
+  opacity: 0.8;
+}
+.branding-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.item {
+  width: 258px;
+  border-radius: 12px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 18px;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.check-circle {
+  margin: 0;
+  height: 38px;
+  width: 38px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.years-of-experience {
+  position: relative;
+  font-weight: 600;
+}
+.lorem-ipsum-dolor1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 12px;
+  line-height: 140%;
+  font-family: Sora;
+  text-align: left;
+  opacity: 0.8;
+}
+.item1,
+.years-of-experience-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.item1 {
+  border-radius: 12px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 18px;
+  box-sizing: border-box;
+  gap: 12px;
+  min-width: 192px;
+}
+.clock-icon1 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.high-quality-care {
+  position: relative;
+  font-weight: 600;
+}
+.lorem-ipsum-dolor2 {
+  align-self: stretch;
+  position: relative;
+  font-size: 12px;
+  line-height: 140%;
+  font-family: Sora;
+  text-align: left;
+  opacity: 0.8;
+}
+.high-quality-care-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-parent,
+.item2,
+.listitems {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.item2 {
+  width: 256px;
+  border-radius: 12px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  align-items: center;
+  padding: 8px 15px 8px 18px;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.frame-parent,
+.listitems {
+  align-items: flex-start;
+  max-width: 100%;
+}
+.listitems {
+  flex: 1;
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-wrap: wrap;
+  gap: 28px;
+  z-index: 1;
+}
+.frame-parent {
+  width: 905px;
+  padding: 0 20px 122px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  font-family: Poppins;
+}
+.plus-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(2.643);
+}
+.wrapper-plus {
+  width: 28.8px;
+  height: 28px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 359px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.section-third-child {
+  height: 405px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 316px;
+}
+.about-me {
+  margin: 0;
+  height: 25px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+}
+.text-main-content {
+  width: 245px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.a-dedicated-doctor {
+  margin: 0;
+  align-self: stretch;
+  height: 96px;
+  position: relative;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: inherit;
+  color: #041432;
+  display: flex;
+  align-items: center;
+}
+.orem-ipsum-dolor {
+  margin: 0;
+}
+.orem-ipsum-dolor-container {
+  align-self: stretch;
+  height: 142px;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Sora;
+  color: #6c87ae;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.contact-details-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.whatsapp-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appointment {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.header-title {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.button1,
+.content,
+.header-title {
+  display: flex;
+  align-items: flex-start;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.content {
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 0;
+  box-sizing: border-box;
+  min-width: 315px;
+  max-width: 100%;
+}
+.plus-icon1 {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(1.479);
+}
+.wrapper-plus1 {
+  height: 96px;
+  width: 97px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -54px;
+  left: 77px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.plus-icon2 {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(1.885);
+}
+.section-third,
+.wrapper-plus2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-plus2 {
+  height: 52px;
+  width: 53px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 97px;
+  left: 489px;
+  z-index: 1;
+}
+.section-third {
+  width: 1095px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 124px;
+  max-width: 100%;
+}
+.plus-icon3 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(2.211);
+}
+.wrapper-plus3 {
+  height: 38px;
+  width: 39px;
+  position: absolute;
+  margin: 0 !important;
+  top: 101px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.content-frame,
+.social-icons-frame {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  max-width: 100%;
+}
+.social-icons-frame {
+  align-self: stretch;
+  flex-direction: row;
+}
+.content-frame {
+  width: 1179px;
+  flex-direction: column;
+  padding: 36px 20px 0;
+  box-sizing: border-box;
+  min-height: 580px;
+  text-align: left;
+  font-size: 22px;
+  color: #00bfa5;
+  font-family: Poppins;
+}
+.section3-services-child {
+  width: 1440px;
+  height: 2018px;
+  position: relative;
+  background-color: #f2f7ff;
+  display: none;
+  max-width: 100%;
+}
+.subtitle,
+.title {
+  margin: 0;
+  position: relative;
+  font-family: inherit;
+}
+.subtitle {
+  width: 245px;
+  height: 25px;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.title {
+  height: 96px;
+  font-size: 32px;
+  font-weight: 600;
+  color: #041432;
+  align-items: center;
+}
+.description,
+.texts,
+.title {
+  align-self: stretch;
+  display: flex;
+}
+.description {
+  height: 66px;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Sora;
+  color: #6c87ae;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.texts {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.whatsapp-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appintment {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.icon {
+  flex-direction: row;
+  gap: 8px;
+}
+.button11,
+.content1,
+.icon,
+.image {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button11 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-direction: row;
+}
+.content1,
+.image {
+  flex-direction: column;
+}
+.content1 {
+  align-self: stretch;
+  gap: 24px;
+  z-index: 1;
+}
+.image {
+  width: 485px;
+  padding: 0 0 25px;
+  box-sizing: border-box;
+  min-width: 485px;
+  max-width: 100%;
+}
+.visual-icon {
+  height: 660px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  min-width: 408px;
+  z-index: 1;
+}
+.text {
+  width: 1141px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 28px;
+  max-width: 100%;
+}
+.semiologia-icon {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  object-fit: cover;
+}
+.header-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.general,
+.lorem-ipsum-dolor3 {
+  align-self: stretch;
+  position: relative;
+}
+.general {
+  margin: 0;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor3 {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.line1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.whatsapp-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appoinment {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.button,
+.button12 {
+  display: flex;
+  justify-content: flex-start;
+}
+.button12 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 6px;
+  white-space: nowrap;
+}
+.button {
+  width: 346px;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0 24px 32px -3px rgba(3, 9, 50, 0.04);
+  flex-direction: column;
+  align-items: center;
+  padding: 32px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.icon1 {
+  height: 200px;
+  width: 176.5px;
+  position: relative;
+  object-fit: cover;
+}
+.icon1-wrapper {
+  align-self: stretch;
+  box-shadow: 0 14px 23px rgba(0, 191, 165, 0.15);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor4,
+.pediatrics {
+  align-self: stretch;
+  position: relative;
+}
+.pediatrics {
+  margin: 0;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor4 {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.pediatrics-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.whatsapp-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appoinment1 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.button13,
+.button2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.button13 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 6px;
+  white-space: nowrap;
+}
+.button2 {
+  width: 346px;
+  border-radius: 24px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.frame-child {
+  width: 200px;
+  height: 186.3px;
+  position: relative;
+  object-fit: cover;
+}
+.button-inner {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor5,
+.nutritional {
+  align-self: stretch;
+  position: relative;
+}
+.nutritional {
+  margin: 0;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor5 {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.nutritional-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.whatsapp-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appoinment2 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.button14,
+.button3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.button14 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 6px;
+  white-space: nowrap;
+}
+.button3 {
+  height: 461px;
+  width: 346px;
+  border-radius: 24px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.healthy-copia-1 {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  object-fit: cover;
+}
+.healthy-copia-1-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.cardiology,
+.lorem-ipsum-dolor6 {
+  align-self: stretch;
+  position: relative;
+}
+.cardiology {
+  margin: 0;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor6 {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.cardiology-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.whatsapp-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appoinment3 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.button15,
+.button4 {
+  display: flex;
+  justify-content: flex-start;
+}
+.button15 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 6px;
+  white-space: nowrap;
+}
+.button4 {
+  width: 346px;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0 24px 32px -3px rgba(3, 9, 50, 0.04);
+  flex-direction: column;
+  align-items: center;
+  padding: 32px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.ciencias-basicas-icon {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  object-fit: cover;
+}
+.ciencias-basicas-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor7,
+.ophthalmology {
+  align-self: stretch;
+  position: relative;
+}
+.ophthalmology {
+  margin: 0;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor7 {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.ophthalmology-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.whatsapp-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appoinment4 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.button16,
+.button5 {
+  display: flex;
+  justify-content: flex-start;
+}
+.button16 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 6px;
+  white-space: nowrap;
+}
+.button5 {
+  width: 346px;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0 24px 32px -3px rgba(3, 9, 50, 0.04);
+  flex-direction: column;
+  align-items: center;
+  padding: 32px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.ambulance-copia-icon {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  object-fit: cover;
+}
+.ambulance-copia-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor8,
+.orthopedics {
+  align-self: stretch;
+  position: relative;
+}
+.orthopedics {
+  margin: 0;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor8 {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.orthopedics-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.whatsapp-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appoinment5 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.button17 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  white-space: nowrap;
+}
+.button6,
+.text-input {
+  display: flex;
+  max-width: 100%;
+}
+.button6 {
+  width: 346px;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0 24px 32px -3px rgba(3, 9, 50, 0.04);
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 32px;
+  box-sizing: border-box;
+  gap: 24px;
+}
+.text-input {
+  width: 1110px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 36px;
+  min-height: 958px;
+  font-size: 24px;
+  color: #000;
+}
+.section3-services {
+  flex: 1;
+  background-color: #f2f7ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 124px 20px 164px 21px;
+  box-sizing: border-box;
+  gap: 112px;
+  max-width: 100%;
+}
+.book-an-appointment1,
+.line {
+  align-self: stretch;
+  display: flex;
+}
+.line {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 88px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 22px;
+  color: #00bfa5;
+  font-family: Poppins;
+}
+.book-an-appointment1 {
+  margin: 0;
+  height: 33px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-family: inherit;
+  align-items: center;
+  justify-content: center;
+}
+.book-an-appointment-wrapper {
+  width: 274px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 5px;
+  box-sizing: border-box;
+}
+.plus-icon4 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(3.875);
+}
+.wrapper-plus4 {
+  height: 16px;
+  width: 16.5px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.facebook,
+.whats-app {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.whats-app {
+  width: 553px;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+}
+.facebook {
+  width: 857px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.phone-child {
+  height: 315px;
+  width: 1068px;
+  position: relative;
+  border-radius: 32px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.schedule-a-virtual {
+  margin: 0;
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor9 {
+  width: 676px;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Sora;
+  display: inline-block;
+  opacity: 0.8;
+  max-width: 100%;
+}
+.text2 {
+  width: 903px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 11px;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.calendar-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.cek-jadwal-dokter {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.button18,
+.calendar-parent {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.calendar-parent {
+  display: flex;
+  gap: 8px;
+}
+.button18 {
+  border-radius: 100px;
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  border: 1px solid #fff;
+  display: none;
+  padding: 16px 29px 16px 27px;
+}
+.whatsapp-icon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.book-an-appointment2 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #3a8ef6;
+  text-align: left;
+}
+.text-frame {
+  gap: 8px;
+}
+.button1-parent,
+.button19,
+.text-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button19 {
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  padding: 16px 28px;
+}
+.button1-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  gap: 32px;
+}
+.text-parent {
+  width: 868.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  z-index: 1;
+}
+.plus-icon5 {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(1.605);
+}
+.plus-icon6,
+.wrapper-plus5 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.wrapper-plus5 {
+  height: 76px;
+  width: 77px;
+  top: -45px;
+  left: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.plus-icon6 {
+  height: 67px;
+  width: 68px;
+  right: 56px;
+  bottom: -32px;
+  object-fit: contain;
+}
+.phone {
+  flex: 1;
+  border-radius: 32px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 64px 20px 64px 21px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.plus-icon7 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(2.917);
+}
+.wrapper-plus6 {
+  height: 24px;
+  width: 25px;
+  position: absolute;
+  margin: 0 !important;
+  top: 40px;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.plus-icon8 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(3.556);
+}
+.text1,
+.wrapper-plus7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-plus7 {
+  height: 18px;
+  width: 19px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 96px;
+  left: 0;
+  z-index: 2;
+}
+.text1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 32px 0 24px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  font-size: 32px;
+  color: #fff;
+}
+.plus-icon9 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(2.353);
+}
+.wrapper-plus8 {
+  width: 35px;
+  height: 34px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 0;
+  left: 223px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.you-tube {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 34px;
+  box-sizing: border-box;
+  gap: 7px;
+}
+.player-icon,
+.why-dr-matthew,
+.you-tube {
+  position: relative;
+  max-width: 100%;
+}
+.why-dr-matthew {
+  margin: 0;
+  width: 436px;
+  height: 33px;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.player-icon {
+  align-self: stretch;
+  height: 567px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.a-dedicated-doctor1 {
+  margin: 0;
+  width: 800px;
+  height: 48px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.orem-ipsum-dolor1 {
+  margin: 0;
+}
+.orem-ipsum-dolor-container1 {
+  height: 66px;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Sora;
+  color: #6c87ae;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.book-now-button,
+.phone1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.phone1 {
+  gap: 12px;
+  font-size: 32px;
+  color: #041432;
+}
+.book-now-button {
+  flex: 1;
+  gap: 17px;
+}
+.about-services-blog {
+  width: 1020px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 8px 0 0;
+  box-sizing: border-box;
+}
+.about-services-blog,
+.group,
+.group-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.group {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 179px;
+}
+.group-wrapper {
+  width: 1172px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 28px 0 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 22px;
+  color: #00bfa5;
+  font-family: Poppins;
+}
+.clock-icon2 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.years-of-experience1 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+}
+.lorem-ipsum-dolor10 {
+  width: 228px;
+  position: relative;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #343434;
+  text-align: left;
+  display: none;
+  opacity: 0.8;
+}
+.text-content-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.home-about-services-contact {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  flex: 1;
+  border-radius: 12px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  gap: 12px;
+  min-width: 208px;
+}
+.check-circle1 {
+  margin: 0;
+  height: 38px;
+  width: 38px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.urgent-24-hour {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+}
+.lorem-ipsum-dolor11 {
+  width: 260px;
+  position: relative;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #343434;
+  text-align: left;
+  display: none;
+  opacity: 0.8;
+}
+.urgent-24-hour-service-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.home-about-services-contact1 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  flex: 1;
+  border-radius: 12px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  gap: 12px;
+  min-width: 203px;
+}
+.clock-icon3 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.high-quality-care1 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+}
+.lorem-ipsum-dolor12 {
+  width: 228px;
+  position: relative;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Sora;
+  color: #343434;
+  text-align: left;
+  display: none;
+  opacity: 0.8;
+}
+.high-quality-care-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.home-about-services-contact2 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 12px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.dr-matthew-anderson,
+.home-about-services-contact-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.home-about-services-contact-parent {
+  flex: 1;
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.dr-matthew-anderson {
+  width: 983px;
+  padding: 0 20px 104px;
+  box-sizing: border-box;
+}
+.section6-review-child {
+  width: 1440px;
+  height: 844px;
+  position: relative;
+  background-color: #f2f7ff;
+  display: none;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor13,
+.what-our-great {
+  align-self: stretch;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+}
+.what-our-great {
+  margin: 0;
+  height: 96px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  align-items: center;
+}
+.lorem-ipsum-dolor13 {
+  height: 44px;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Sora;
+  color: #6c87ae;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.about-services-blog-frame {
+  width: 676px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.chevron-left-icon {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.lorem-ipsum-dolor14 {
+  width: 402px;
+  height: 72px;
+  position: relative;
+  display: inline-block;
+  font-weight: 300;
+  max-width: 100%;
+}
+.book-now-button1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.samy-white {
+  position: relative;
+  font-weight: 500;
+}
+.cardiology-patient {
+  position: relative;
+  font-size: 12px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.message-circle-button {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.doctor-frame,
+.ellipse,
+.group-frame,
+.message-circle-button {
+  display: flex;
+  justify-content: flex-start;
+}
+.doctor-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  text-align: center;
+  font-size: 18px;
+  color: #00bfa5;
+}
+.ellipse,
+.group-frame {
+  flex-direction: column;
+  max-width: 100%;
+}
+.ellipse {
+  align-self: stretch;
+  align-items: center;
+  gap: 8px;
+}
+.group-frame {
+  flex: 1;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 24px 32px -3px rgba(3, 9, 50, 0.04);
+  align-items: flex-start;
+  padding: 18px 28px;
+  box-sizing: border-box;
+  min-width: 305px;
+}
+.lorem-ipsum-dolor15 {
+  align-self: stretch;
+  height: 72px;
+  position: relative;
+  display: inline-block;
+  font-weight: 300;
+}
+.line-frame-child {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.arthur-northon {
+  height: 27px;
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nutrion-patient {
+  position: relative;
+  font-size: 12px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.arthur-northon-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.header-frame1,
+.line-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.line-frame {
+  flex-direction: row;
+  text-align: center;
+  font-size: 18px;
+  color: #00bfa5;
+}
+.header-frame1 {
+  flex-direction: column;
+}
+.home-about-services-contact-fr,
+.reviews {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.home-about-services-contact-fr {
+  width: 458px;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 24px 32px -3px rgba(3, 9, 50, 0.04);
+  flex-direction: column;
+  padding: 18px 28px;
+  box-sizing: border-box;
+  min-width: 458px;
+}
+.reviews {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 28px;
+  z-index: 1;
+}
+.lorem-ipsum-dolor16 {
+  align-self: stretch;
+  height: 72px;
+  position: relative;
+  display: inline-block;
+  font-weight: 300;
+}
+.frame-item {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.kevin-smith {
+  height: 27px;
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.orthopedics-patient {
+  position: relative;
+  font-size: 12px;
+  font-family: Sora;
+  color: #6c87ae;
+  margin-top: -2px;
+}
+.kevin-smith-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.ellipse-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  text-align: center;
+  font-size: 18px;
+  color: #00bfa5;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent,
+.reviews-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent {
+  align-self: stretch;
+  align-items: center;
+  gap: 8px;
+}
+.reviews-inner {
+  flex: 1;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 24px 32px -3px rgba(3, 9, 50, 0.04);
+  align-items: flex-start;
+  padding: 18px 28px;
+  box-sizing: border-box;
+  min-width: 298px;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor17 {
+  align-self: stretch;
+  height: 72px;
+  position: relative;
+  display: inline-block;
+  font-weight: 300;
+}
+.frame-inner {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.amanda-jackson {
+  height: 27px;
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ophthalmology-patient {
+  position: relative;
+  font-size: 12px;
+  font-family: Sora;
+  color: #6c87ae;
+}
+.amanda-jackson-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-group,
+.lorem-ipsum-dolor-sit-amet-co-group {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.ellipse-group {
+  flex-direction: row;
+  text-align: center;
+  font-size: 18px;
+  color: #00bfa5;
+}
+.lorem-ipsum-dolor-sit-amet-co-group {
+  flex-direction: column;
+}
+.contact-text,
+.reviews-child,
+.reviews1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.reviews-child {
+  flex: 1;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 24px 32px -3px rgba(3, 9, 50, 0.04);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 18px 28px;
+  box-sizing: border-box;
+  min-width: 298px;
+}
+.contact-text,
+.reviews1 {
+  gap: 28px;
+}
+.reviews1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 6px 0 5px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.contact-text {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  min-width: 621px;
+}
+.chevron-left-icon1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 1;
+}
+.section6-review,
+.text-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.text-content {
+  width: 1075px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 2px 0 0;
+  gap: 11px;
+  text-align: left;
+  font-size: 16px;
+}
+.section6-review {
+  align-self: stretch;
+  background-color: #f2f7ff;
+  flex-direction: column;
+  padding: 124px 20px 148px;
+  gap: 60px;
+}
+.footer-child {
+  height: 394px;
+  width: 1440px;
+  position: relative;
+  background-color: #1678f2;
+  display: none;
+  max-width: 100%;
+}
+.doctor {
+  margin: 0;
+  height: 40px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.ellipse-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 0 0;
+}
+.ellipse-frame-b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 4px 19px rgba(22, 120, 242, 0.2),
+    0 4px 4px rgba(0, 0, 0, 0.12) inset;
+  width: 100%;
+  height: 100%;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 4.2px;
+  border-radius: 0.78px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  width: 5.2px;
+  height: 13.6px;
+}
+.frame-child1,
+.rectangle-parent {
+  position: absolute;
+  height: 13.6px;
+  z-index: 1;
+}
+.frame-child1 {
+  top: 4.2px;
+  left: 13.6px;
+  border-radius: 0.78px;
+  background: linear-gradient(145.08deg, #1678f2, #65a8fb);
+  width: 5.2px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.rectangle-parent {
+  top: 5.2px;
+  left: 5.2px;
+  width: 13.6px;
+}
+.ellipse-frame-b-parent {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.ellipse-frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.briarwood-lanevienna-va,
+.w-south-stbuford {
+  margin: 0;
+}
+.w-south-stbuford-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+}
+.facebook-icon,
+.whatsapp-icon9,
+.youtube-icon {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  min-height: 32px;
+}
+.youtube-parent {
+  width: 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-parent1,
+.w-south-stbuford-ga-30518-5-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.w-south-stbuford-ga-30518-5-parent {
+  align-self: stretch;
+  gap: 24px;
+  font-size: 16px;
+  font-family: Poppins;
+}
+.frame-parent1 {
+  width: 471px;
+  gap: 16px;
+  min-width: 471px;
+  max-width: 100%;
+}
+.company-info {
+  position: relative;
+  font-weight: 600;
+}
+.about,
+.blog,
+.services {
+  position: relative;
+  opacity: 0.8;
+}
+.about-parent,
+.company-info-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-parent {
+  gap: 16px;
+  font-size: 16px;
+  font-family: Sora;
+}
+.company-info-parent {
+  gap: 24px;
+}
+.book-now {
+  height: 30px;
+  position: relative;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.appointment {
+  position: relative;
+  font-size: 16px;
+  font-family: Sora;
+  opacity: 0.8;
+}
+.appointment-button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.contact {
+  height: 30px;
+  position: relative;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.div,
+.remmcalmailcom {
+  white-space: nowrap;
+}
+.div,
+.phone-1-12345678,
+.remmcalmailcom {
+  position: relative;
+  opacity: 0.8;
+}
+.parent {
+  gap: 16px;
+  font-size: 16px;
+  font-family: Sora;
+}
+.contact-parent,
+.header-frame-inner,
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-parent {
+  gap: 24px;
+}
+.header-frame-inner {
+  padding: 5px 0 0;
+}
+.frame-div,
+.header-frame2 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.header-frame2 {
+  justify-content: space-between;
+  padding: 0 1px 0 0;
+  box-sizing: border-box;
+  min-width: 414px;
+  gap: 20px;
+  font-size: 20px;
+  font-family: Poppins;
+}
+.frame-div {
+  justify-content: flex-start;
+  gap: 11px;
+}
+.frame-wrapper,
+.line-frame-c {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  max-width: 100%;
+}
+.line-frame-c {
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #fff;
+  opacity: 0.6;
+}
+.doctor-all-rights {
+  position: relative;
+  display: inline-block;
+  opacity: 0.8;
+  max-width: 100%;
+}
+.footer-frame,
+.frame-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-frame {
+  align-self: stretch;
+  align-items: center;
+  gap: 40px;
+  font-size: 16px;
+}
+.frame-container {
+  width: 1110px;
+  background-color: #1678f2;
+  align-items: flex-start;
+  gap: 53px;
+  z-index: 1;
+}
+.footer,
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+  font-size: 32px;
+}
+.footer {
+  background-color: #1678f2;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 48px;
+  box-sizing: border-box;
+  min-height: 394px;
+  text-align: left;
+  color: #fff;
+  font-family: Sora;
+}
+.frame-group {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  color: #041432;
+  font-family: Poppins;
+}
+.header-frame-c-child {
+  width: 1440px;
+  height: 838px;
+  position: relative;
+  border-radius: 32px;
+  background-color: #f2f7ff;
+  display: none;
+  max-width: 100%;
+}
+.doctor1 {
+  margin: 0;
+  height: 40px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.doctor-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 0 0;
+}
+.ellipse-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #5fd3bd;
+  box-shadow: 0 4px 19px rgba(22, 120, 242, 0.2),
+    0 4px 4px rgba(0, 0, 0, 0.12) inset;
+  width: 100%;
+  height: 100%;
+}
+.frame-child2 {
+  position: absolute;
+  top: 0;
+  left: 4.2px;
+  border-radius: 0.78px;
+  background-color: #fff;
+  width: 5.2px;
+  height: 13.6px;
+}
+.frame-child3,
+.rectangle-group {
+  position: absolute;
+  height: 13.6px;
+  z-index: 1;
+}
+.frame-child3 {
+  top: 4.2px;
+  left: 13.6px;
+  border-radius: 0.78px;
+  background-color: #fff;
+  width: 5.2px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.rectangle-group {
+  top: 5.2px;
+  left: 5.2px;
+  width: 13.6px;
+}
+.ellipse-container {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  z-index: 1;
+}
+.doctor-circle-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.home {
+  position: relative;
+  color: #3a8ef6;
+  z-index: 1;
+}
+.about1,
+.contact1,
+.services1 {
+  position: relative;
+  opacity: 0.8;
+  z-index: 1;
+}
+.home-parent {
+  width: 389px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 39px 0 0;
+  box-sizing: border-box;
+  gap: 41px;
+  max-width: 100%;
+  font-size: 16px;
+}
+.message-circle-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.book-now1 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+  white-space: nowrap;
+}
+.buttom,
+.doctor-card-frame {
+  display: flex;
+  flex-direction: row;
+}
+.buttom {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 24px 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.doctor-card-frame {
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.home-about-services-contact3 {
+  width: 1092px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 23px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #6c87ae;
+  font-family: Sora;
+}
+.dr-matthew-anderson1 {
+  margin: 0;
+  height: 33px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.dr-matthew-anderson-wrapper {
+  width: 294px;
+  height: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.a-dedicated-doctor2,
+.you-can-trust {
+  margin: 0;
+}
+.a-dedicated-doctor-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 48px;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  color: #031432;
+}
+.lorem-ipsum-dolor18 {
+  width: 524px;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Sora;
+  color: #6c87ae;
+  display: flex;
+  align-items: flex-end;
+  max-width: 100%;
+}
+.dr-anderson-content-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.message-circle-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.book-an-appointment3 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Sora;
+  color: #fff;
+  text-align: left;
+}
+.button110,
+.message-circle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.message-circle-parent {
+  gap: 8px;
+}
+.button110 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 28px;
+  background-color: transparent;
+  border-radius: 100px;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  box-shadow: 0 8px 23px rgba(65, 132, 247, 0.24);
+}
+.object-icon {
+  width: 678.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: -125px;
+  right: -555.4px;
+  height: 517px;
+  object-fit: contain;
+  z-index: 2;
+}
+.object-frame,
+.text-content1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.text-content1 {
+  width: 666px;
+  flex-direction: column;
+  position: relative;
+  gap: 23px;
+  z-index: 1;
+}
+.object-frame {
+  width: 1092px;
+  flex-direction: row;
+}
+.doctor-landing-page,
+.header-frame-c {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.header-frame-c {
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: 32px;
+  background-color: #f2f7ff;
+  padding: 32px 42px 218px 20px;
+  gap: 223px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 22px;
+  color: #00bfa5;
+  font-family: Poppins;
+}
+.doctor-landing-page {
+  position: relative;
+  border-radius: 12px;
+  background-color: #f9fbfc;
+  padding: 800px 0 0;
+  gap: 60px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .section-third {
+    gap: 62px;
+  }
+  .section3-services {
+    gap: 56px;
+    padding-top: 81px;
+    padding-bottom: 107px;
+    box-sizing: border-box;
+  }
+  .line {
+    padding-bottom: 57px;
+    box-sizing: border-box;
+  }
+  .group {
+    gap: 89px;
+  }
+  .section6-review {
+    gap: 30px;
+  }
+  .footer {
+    padding-left: 24px;
+    padding-right: 24px;
+    box-sizing: border-box;
+  }
+  .header-frame-c {
+    gap: 111px;
+    padding-right: 21px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .a-dedicated-doctor,
+  .title {
+    font-size: 26px;
+  }
+  .image {
+    flex: 1;
+  }
+  .text {
+    flex-wrap: wrap;
+  }
+  .section3-services {
+    padding-top: 53px;
+    padding-bottom: 70px;
+    box-sizing: border-box;
+  }
+  .line {
+    padding-bottom: 37px;
+    box-sizing: border-box;
+  }
+  .a-dedicated-doctor1,
+  .schedule-a-virtual,
+  .what-our-great {
+    font-size: 26px;
+  }
+  .home-about-services-contact-fr {
+    flex: 1;
+  }
+  .reviews,
+  .reviews1 {
+    flex-wrap: wrap;
+  }
+  .section6-review {
+    padding-top: 81px;
+    padding-bottom: 96px;
+    box-sizing: border-box;
+  }
+  .doctor {
+    font-size: 26px;
+  }
+  .frame-parent1 {
+    flex: 1;
+  }
+  .frame-div {
+    flex-wrap: wrap;
+  }
+  .a-dedicated-doctor-container {
+    font-size: 38px;
+    line-height: 46px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .section-third {
+    gap: 31px;
+  }
+  .image,
+  .visual-icon {
+    min-width: 100%;
+  }
+  .text-input {
+    gap: 18px;
+  }
+  .section3-services {
+    gap: 28px;
+    padding-top: 34px;
+    padding-bottom: 45px;
+    box-sizing: border-box;
+  }
+  .line {
+    padding-bottom: 24px;
+    box-sizing: border-box;
+  }
+  .group {
+    gap: 45px;
+  }
+  .contact-text,
+  .frame-parent1,
+  .home-about-services-contact-fr {
+    min-width: 100%;
+  }
+  .header-frame2 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .footer-frame {
+    gap: 20px;
+  }
+  .frame-container {
+    gap: 26px;
+  }
+  .home-parent {
+    display: none;
+  }
+  .header-frame-c {
+    gap: 56px;
+  }
+  .doctor-landing-page {
+    gap: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-me {
+    font-size: 18px;
+  }
+  .a-dedicated-doctor {
+    font-size: 19px;
+  }
+  .section-third {
+    gap: 15px;
+  }
+  .subtitle {
+    font-size: 18px;
+  }
+  .general,
+  .title {
+    font-size: 19px;
+  }
+  .general {
+    line-height: 17px;
+  }
+  .button {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .pediatrics {
+    font-size: 19px;
+    line-height: 17px;
+  }
+  .button2 {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .nutritional {
+    font-size: 19px;
+    line-height: 17px;
+  }
+  .button3 {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .cardiology {
+    font-size: 19px;
+    line-height: 17px;
+  }
+  .button4 {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .ophthalmology {
+    font-size: 19px;
+    line-height: 17px;
+  }
+  .button5 {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .orthopedics {
+    font-size: 19px;
+    line-height: 17px;
+  }
+  .button6 {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .book-an-appointment1 {
+    font-size: 18px;
+  }
+  .schedule-a-virtual {
+    font-size: 19px;
+  }
+  .button1-parent {
+    gap: 16px;
+  }
+  .why-dr-matthew {
+    font-size: 18px;
+  }
+  .a-dedicated-doctor1 {
+    font-size: 19px;
+  }
+  .group {
+    gap: 22px;
+  }
+  .what-our-great {
+    font-size: 19px;
+  }
+  .doctor-frame,
+  .ellipse-group,
+  .ellipse-parent,
+  .line-frame {
+    flex-wrap: wrap;
+  }
+  .section6-review {
+    padding-top: 53px;
+    padding-bottom: 62px;
+    box-sizing: border-box;
+  }
+  .doctor {
+    font-size: 19px;
+  }
+  .book-now,
+  .company-info,
+  .contact {
+    font-size: 16px;
+  }
+  .footer {
+    padding-top: 31px;
+    padding-bottom: 31px;
+    box-sizing: border-box;
+  }
+  .home-parent {
+    gap: 20px;
+  }
+  .dr-matthew-anderson1 {
+    font-size: 18px;
+  }
+  .a-dedicated-doctor-container {
+    font-size: 29px;
+    line-height: 35px;
+  }
+  .header-frame-c {
+    gap: 28px;
+  }
+}
